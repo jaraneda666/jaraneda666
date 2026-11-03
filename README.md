@@ -3,7 +3,7 @@
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0f0c29,50:1e1b4b,75:0f172a,100:00ff99&text=JUAN%20CARLOS%20ARANEDA%20M.&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Especialista%20en%20Ciberseguridad%20%7C%20SysAdmin%20%7C%20Infraestructura%20TI%20%26%20Redes&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0f0c29,50:1e1b4b,75:0f172a,100:00ff99&text=JUAN%20CARLOS%20ARANEDA%20M.&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Especialista%20en%20Ciberseguridad%20%7C%20SysAdmin%20%7C%20Infraestructura%20TI%20y%20Redes&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
 <!-- TERMINAL TYPING ANIMADA -->
