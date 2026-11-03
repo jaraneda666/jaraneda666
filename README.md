@@ -3,12 +3,12 @@
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0f0c29,50:1e1b4b,75:0f172a,100:00ff99&text=JUAN%20CARLOS%20ARANEDA%20M.&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Especialista%20en%20Ciberseguridad%20%7C%20SysAdmin%20%7C%20Infraestructura%20TI%20y%20Redes&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0f0c29,50:1e1b4b,75:0f172a,100:00ff99&text=JUAN%20CARLOS%20ARANEDA%20M.&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ciberseguridad%20%7C%20SysAdmin%20%7C%20IA%2C%20LLMs%20Locales%20y%20RAG&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
 <!-- TERMINAL TYPING ANIMADA -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=950&lines=%24+whoami;Juan+Carlos+Araneda+Morales+(jaraneda666);Especialista+en+Ciberseguridad+%7C+SysAdmin+%7C+SysOps;%2B20+A%C3%B1os+en+Infraestructura+Cr%C3%ADtica%2C+Redes+y+Servidores;Seguridad+Ofensiva+y+Defensiva+%7C+Hardening+%7C+CIS+Benchmarks;Linux+%7C+Docker+%7C+VMware+%7C+Fortinet+%7C+Cisco+%7C+Synology"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=950&lines=%24+whoami;Juan+Carlos+Araneda+Morales+(jaraneda666);Especialista+en+Ciberseguridad%2C+SysAdmin+y+SysOps;Inteligencia+Artificial+Aplicada%3A+LLMs+Locales+y+RAG;Inferencia+On-Premise+con+Ollama+y+LM+Studio;Seguridad+en+IA%3A+Red+Teaming%2C+Prompt+Injection+y+OWASP+LLM;%2B20+A%C3%B1os+en+Infraestructura+Cr%C3%ADtica%2C+Redes+y+Servidores"/>
 </p>
 
 <!-- CONTACT BADGES -->
@@ -39,6 +39,17 @@
 ---
 
 # 🛠️ STACK TÉCNICO & CAPACIDADES OPERATIVAS
+
+### 🧠 Inteligencia Artificial, LLMs Locales & RAG
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama_(LLMs_Locales)-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LM_Studio-1E293B?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-7C3AED?style=flat-square&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-0284C7?style=flat-square&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentes_Autónomos_(ReAct)-10B981?style=flat-square&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10_for_LLMs_2025-EE3124?style=flat-square&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Red_Teaming_&_Prompt_Injection-F59E0B?style=flat-square&logo=kalilinux&logoColor=white"/>
+</p>
 
 ### 🔐 Ciberseguridad & Auditorías
 <p align="left">
@@ -90,5 +101,5 @@
 
 <p align="center">
   <b>Juan Carlos Araneda Morales</b> • <i>Santiago, Chile</i><br>
-  <sub>Protegiendo y operando infraestructuras críticas con rigor técnico y mejora continua.</sub>
+  <sub>Protegiendo y operando infraestructuras críticas con IA local, rigor técnico y mejora continua.</sub>
 </p>

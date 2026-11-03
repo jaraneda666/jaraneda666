@@ -1,82 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 420" width="100%" height="auto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 480" width="100%" height="auto">
   <defs>
     <style>
-      .window { fill: #0f141c; rx: 10px; stroke: #2d3748; stroke-width: 1.5; }
-      .header { fill: #1a202c; }
-      .btn-red { fill: #ff5f56; }
-      .btn-yellow { fill: #ffbd2e; }
-      .btn-green { fill: #27c93f; }
-      .title { fill: #a0aec0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 13px; text-anchor: middle; }
-      .code { font-family: "Fira Code", "Cascadia Code", "JetBrains Mono", Consolas, monospace; font-size: 14px; }
+      .window { fill: #0b1120; rx: 12px; stroke: #1e293b; stroke-width: 1.5; }
+      .header { fill: #131d31; }
+      .btn-red { fill: #ef4444; }
+      .btn-yellow { fill: #f59e0b; }
+      .btn-green { fill: #10b981; }
+      .title { fill: #94a3b8; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 13px; text-anchor: middle; font-weight: 500; }
+      .code { font-family: "Fira Code", "Cascadia Code", "JetBrains Mono", Consolas, monospace; font-size: 13.5px; }
       .seg-user { fill: #1e293b; }
       .seg-path { fill: #0284c7; }
+      .seg-ai { fill: #7c3aed; }
       .seg-text-user { fill: #e2e8f0; font-weight: bold; }
       .seg-text-path { fill: #ffffff; font-weight: bold; }
       .cmd-text { fill: #f8fafc; font-weight: bold; }
       .out-title { fill: #38bdf8; font-weight: bold; }
       .out-text { fill: #94a3b8; }
       .out-highlight { fill: #34d399; font-weight: bold; }
-      .out-accent { fill: #f59e0b; }
+      .out-ai { fill: #c084fc; font-weight: bold; }
+      .out-accent { fill: #fbbf24; }
     </style>
   </defs>
 
   <!-- Ventana Terminal -->
-  <rect x="1" y="1" width="848" height="418" class="window" />
+  <rect x="1" y="1" width="878" height="478" class="window" />
   
   <!-- Barra de título -->
-  <path d="M1,10 Q1,1 10,1 L840,1 Q849,1 849,10 L849,38 L1,38 Z" class="header" />
-  <circle cx="20" cy="19" r="6" class="btn-red" />
-  <circle cx="40" cy="19" r="6" class="btn-yellow" />
-  <circle cx="60" cy="19" r="6" class="btn-green" />
-  <text x="425" y="24" class="title">jaraneda@security-hub: ~/perfil (zsh)</text>
+  <path d="M1,12 Q1,1 12,1 L868,1 Q879,1 879,12 L879,40 L1,40 Z" class="header" />
+  <circle cx="22" cy="20" r="6" class="btn-red" />
+  <circle cx="42" cy="20" r="6" class="btn-yellow" />
+  <circle cx="62" cy="20" r="6" class="btn-green" />
+  <text x="440" y="25" class="title">jaraneda@security-hub: ~/ia-rag-pentest (zsh)</text>
 
   <!-- Contenido de la Terminal -->
-  <g class="code" transform="translate(24, 65)">
+  <g class="code" transform="translate(24, 66)">
     <!-- Prompt 1: whoami -->
-    <!-- Segmento Usuario -->
     <rect x="0" y="0" width="145" height="24" rx="3" class="seg-user" />
     <text x="10" y="17" class="seg-text-user">jaraneda@sec</text>
     <path d="M145,0 L157,12 L145,24 Z" class="seg-user" />
     
-    <!-- Segmento Path -->
     <rect x="153" y="0" width="90" height="24" rx="3" class="seg-path" />
     <text x="165" y="17" class="seg-text-path">~/perfil</text>
     <path d="M243,0 L255,12 L243,24 Z" class="seg-path" />
 
-    <!-- Comando -->
     <text x="268" y="17" class="cmd-text">whoami --verbose</text>
 
     <!-- Salida Prompt 1 -->
-    <text x="5" y="55" class="out-title">❯ Juan Carlos Araneda Morales</text>
-    <text x="5" y="80" class="out-highlight">  Rol Principal: Especialista en Ciberseguridad &amp; SysAdmin / SysOps</text>
-    <text x="5" y="105" class="out-text">  Trayectoria:   +20 años liderando operaciones de infraestructura crítica TI</text>
-    <text x="5" y="130" class="out-text">  Enfoque:       Seguridad Ofensiva (Pentesting), Defensiva, Hardening &amp; Redes</text>
-    <text x="5" y="155" class="out-text">  Ubicación:     Santiago, Chile • Idiomas: Español (Nativo), Inglés (Técnico)</text>
+    <text x="5" y="52" class="out-title">❯ Juan Carlos Araneda Morales</text>
+    <text x="5" y="74" class="out-highlight">  Rol:           Especialista en Ciberseguridad &amp; SysAdmin / SysOps</text>
+    <text x="5" y="96" class="out-text">  Infra:         +20 años en Infraestructura Crítica, Redes, Cloud &amp; Virtualización</text>
+    <text x="5" y="118" class="out-ai">  IA Aplicada:   Ingeniería de LLMs Locales, RAG Empresarial &amp; Seguridad de Agentes</text>
 
-    <!-- Prompt 2: cat especialidades.json -->
-    <g transform="translate(0, 185)">
-      <!-- Segmento Usuario -->
+    <!-- Prompt 2: IA, LLM y RAG -->
+    <g transform="translate(0, 148)">
       <rect x="0" y="0" width="145" height="24" rx="3" class="seg-user" />
       <text x="10" y="17" class="seg-text-user">jaraneda@sec</text>
       <path d="M145,0 L157,12 L145,24 Z" class="seg-user" />
       
-      <!-- Segmento Path -->
+      <rect x="153" y="0" width="125" height="24" rx="3" class="seg-ai" />
+      <text x="165" y="17" class="seg-text-path">~/ia/local-llm</text>
+      <path d="M278,0 L290,12 L278,24 Z" class="seg-ai" />
+
+      <text x="303" y="17" class="cmd-text">python -m ai_engine.status --rag</text>
+
+      <text x="5" y="50" class="out-ai">⚙️ [INFERENCIA LOCAL] Ollama &amp; LM Studio (Qwen 2.5, Llama 3, DeepSeek)</text>
+      <text x="5" y="72" class="out-ai">📚 [ARQUITECTURA RAG] Embeddings Vectoriales, Recuperación Aumentada &amp; Hybrid Search</text>
+      <text x="5" y="94" class="out-ai">🤖 [AGENTES &amp; PROTOCOLOS] Agentes Autónomos ReAct, Model Context Protocol (MCP)</text>
+      <text x="5" y="116" class="out-highlight">🛡️ [RED TEAM &amp; IA SEC] OWASP Top 10 for LLMs 2025, Prompt Injection, Jailbreaking</text>
+    </g>
+
+    <!-- Prompt 3: Competencias Infraestructura -->
+    <g transform="translate(0, 296)">
+      <rect x="0" y="0" width="145" height="24" rx="3" class="seg-user" />
+      <text x="10" y="17" class="seg-text-user">jaraneda@sec</text>
+      <path d="M145,0 L157,12 L145,24 Z" class="seg-user" />
+      
       <rect x="153" y="0" width="105" height="24" rx="3" class="seg-path" />
       <text x="165" y="17" class="seg-text-path">~/skills/ti</text>
       <path d="M258,0 L270,12 L258,24 Z" class="seg-path" />
 
-      <!-- Comando -->
-      <text x="283" y="17" class="cmd-text">cat core_competencies.log</text>
+      <text x="283" y="17" class="cmd-text">cat core_infra.log</text>
 
-      <!-- Salida Prompt 2 -->
-      <text x="5" y="52" class="out-accent">[AUDITORÍAS]  CIS Benchmarks | PCI DSS | OWASP Top 10 | ISO 27001</text>
-      <text x="5" y="77" class="out-accent">[INFRA &amp; NET] Fortinet FortiGate | Cisco | Ubiquiti UniFi | VPN IPSec/SSL</text>
-      <text x="5" y="102" class="out-accent">[SISTEMAS]    Linux (RHEL/Debian) | Windows Server | Docker | Synology NAS</text>
-      <text x="5" y="127" class="out-accent">[AUTOMACIÓN]  Python | Bash | PowerShell | Pentesting Scripting</text>
+      <text x="5" y="48" class="out-accent">[AUDITORÍAS]  CIS Benchmarks | PCI DSS | ISO 27001 | Pentesting Web</text>
+      <text x="5" y="70" class="out-accent">[INFRA &amp; NET] Fortinet FortiGate | Cisco | Ubiquiti UniFi | VPN IPSec/SSL</text>
+      <text x="5" y="92" class="out-accent">[SISTEMAS]    Linux (RHEL/Debian) | Windows Server | Docker | Synology NAS</text>
     </g>
 
-    <!-- Prompt 3 en espera (cursor) -->
-    <g transform="translate(0, 335)">
+    <!-- Cursor prompt -->
+    <g transform="translate(0, 420)">
       <rect x="0" y="0" width="145" height="24" rx="3" class="seg-user" />
       <text x="10" y="17" class="seg-text-user">jaraneda@sec</text>
       <path d="M145,0 L157,12 L145,24 Z" class="seg-user" />
@@ -85,7 +96,6 @@
       <text x="165" y="17" class="seg-text-path">~/perfil</text>
       <path d="M243,0 L255,12 L243,24 Z" class="seg-path" />
 
-      <!-- Cursor palpitante -->
       <rect x="268" y="3" width="10" height="18" fill="#38bdf8">
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
       </rect>
