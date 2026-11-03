@@ -30,8 +30,6 @@
 
 ---
 
-# 💻 TERMINAL // SOBRE MÍ (OH-MY-ZSH AGNOSTER MULTICOLOR)
-
 <p align="center">
   <img src="terminal_zsh.svg" alt="Terminal Oh My Zsh Juan Carlos Araneda" width="100%"/>
 </p>
