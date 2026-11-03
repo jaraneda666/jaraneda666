@@ -25,7 +25,6 @@
   <a href="https://maps.google.com">
     <img src="https://img.shields.io/badge/Santiago%2C%20Chile-red?style=for-the-badge&logo=google-maps&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jaraneda666&color=00ff99&style=for-the-badge&label=VISITAS"/>
 </p>
 
 ---
@@ -93,6 +92,10 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaraneda666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaraneda666&theme=tokyonight&hide_border=true&background=0d1117" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaraneda666&color=00ff99&style=for-the-badge&label=VISITAS%20AL%20PERFIL"/>
 </p>
 
 ---
