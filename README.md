@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaraneda666&color=00ff99&style=for-the-badge&label=VISITAS%20AL%20PERFIL"/>
+  <img src="https://komarev.com/ghpvc/?username=jaraneda666&color=0284c7&label=VISITAS+AL+PERFIL&style=for-the-badge" height="38"/>
 </p>
 
 ---
