@@ -107,5 +107,6 @@
 
 <p align="center">
   <b>Juan Carlos Araneda Morales</b> • <i>Santiago, Chile</i><br>
-  <sub>Protegiendo y operando infraestructuras críticas con IA local, rigor técnico y mejora continua.</sub>
+  <sub>Protegiendo y operando infraestructuras críticas con IA local, rigor técnico y mejora continua.</sub><br><br>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=flat-square" alt="License: CC BY 4.0"/></a>
 </p>
