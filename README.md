@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/Fortinet_FortiGate-0284C7?style=flat-square&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco_Switches_&_Routers-0284C7?style=flat-square&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubiquiti_UniFi-0284C7?style=flat-square&logo=ubiquiti&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenWrt-0284C7?style=flat-square&logo=openwrt&logoColor=white"/>
   <img src="https://img.shields.io/badge/VLAN_&_QoS-0284C7?style=flat-square&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/VPN_IPSec_&_SSL-0284C7?style=flat-square&logo=openvpn&logoColor=white"/>
 </p>
