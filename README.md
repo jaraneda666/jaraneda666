@@ -3,12 +3,12 @@
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0f0c29,50:1e1b4b,75:0f172a,100:00ff99&text=JUAN%20CARLOS%20ARANEDA%20M.&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ciberseguridad%20%7C%20SysAdmin%20%7C%20IA%2C%20LLMs%20Locales%20y%20RAG&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,25:0f0c29,50:1e1b4b,75:0f172a,100:00ff99&text=JUAN%20CARLOS%20ARANEDA%20M.&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ciberseguridad%20%7C%20Auditor%20Interno%20ISO%2027001%20%7C%20IA%20%26%20SysOps&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
 <!-- TERMINAL TYPING ANIMADA (SIN NOMBRES DE MODELOS) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=950&lines=%24+whoami;Juan+Carlos+Araneda+Morales+(jaraneda666);Especialista+en+Ciberseguridad%2C+SysAdmin+y+SysOps;Inteligencia+Artificial+Aplicada%3A+LLMs+Locales+y+RAG;Inferencia+On-Premise+con+Ollama+y+LM+Studio;Seguridad+en+IA%3A+Red+Teaming%2C+Prompt+Injection+y+OWASP+LLM;%2B20+A%C3%B1os+en+Infraestructura+Cr%C3%ADtica%2C+Redes+y+Servidores"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=950&lines=%24+whoami;Juan+Carlos+Araneda+Morales+(jaraneda666);Especialista+en+Ciberseguridad%2C+SysAdmin+y+SysOps;Auditor+Interno+ISO%2FIEC+27001+(CertiProf+%7C+I27001IA);Inteligencia+Artificial+Aplicada%3A+LLMs+Locales+y+RAG;Inferencia+On-Premise+con+Ollama+y+LM+Studio;Seguridad+en+IA%3A+Red+Teaming%2C+Prompt+Injection+y+OWASP+LLM;%2B20+A%C3%B1os+en+Infraestructura+Cr%C3%ADtica%2C+Redes+y+Servidores"/>
 </p>
 
 <!-- CONTACT BADGES -->
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Nessus_&_Qualys-059669?style=flat-square&logo=qualys&logoColor=white"/>
   <img src="https://img.shields.io/badge/CIS_Benchmarks-059669?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDFMMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00em0tMiAxNmwtNC00IDEuNDEtMS40MUwxMCAxNC4xN2w2LjU5LTYuNTlMMTggOWwtOCA4eiIvPjwvc3ZnPg=="/>
   <img src="https://img.shields.io/badge/Microsoft_Defender-059669?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMHYxMS40MDhoMTEuNDA4VjB6bTEyLjU5NCAwdjExLjQwOEgyNFYwem0tMTIuNTk0IDEyLjU5NFYyNGgxMS40MDhWMTIuNTk0em0xMi41OTQgMFYyNEgyNFYxMi41OTR6Ii8+PC9zdmc+"/>
-  <img src="https://img.shields.io/badge/ISO_27001-059669?style=flat-square&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auditor_Interno_ISO_27001_(CertiProf)-059669?style=flat-square&logo=checkmarx&logoColor=white"/>
 </p>
 
 ### 🔵 Redes & Comunicaciones
@@ -107,6 +107,6 @@
 
 <p align="center">
   <b>Juan Carlos Araneda Morales</b> • <i>Santiago, Chile</i><br>
-  <sub>Protegiendo y operando infraestructuras críticas con IA local, rigor técnico y mejora continua.</sub><br><br>
+  <sub>Protegiendo y auditando infraestructuras críticas con ISO/IEC 27001, IA local y rigor técnico.</sub><br><br>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=flat-square" alt="License: CC BY 4.0"/></a>
 </p>
